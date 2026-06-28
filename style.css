@@ -1,0 +1,18 @@
+/* public/scripts/extensions/third-party/GodComment/style.css */
+.god-comment {
+    margin-top: 6px;
+    padding: 6px 10px;
+    border-left: 3px solid #9b59b6;
+    background-color: rgba(155, 89, 182, 0.08);
+    border-radius: 4px;
+    font-size: 0.9em;
+    color: #ccc;
+    max-width: 90%;
+}
+
+.god-comment small em {
+    color: #b07cd8;
+    font-style: normal;
+    font-weight: bold;
+    margin-right: 4px;
+}

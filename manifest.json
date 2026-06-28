@@ -1,0 +1,12 @@
+{
+  "display_name": "上帝视角",
+  "loading_order": 1,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "",
+  "author": "aaa",
+  "version": "1.0.0",
+  "description": "能让你的消息被上帝视角评论的小插件",
+  "tags": ["工具", "消息增强"]
+}
